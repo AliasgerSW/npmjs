@@ -1,0 +1,22 @@
+{
+  "name": "firstmodule",
+  "version": "1.0.0",
+  "description": "Testing module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliasgerSW/sirbhanurepository.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Aliasger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliasgerSW/sirbhanurepository/issues"
+  },
+  "homepage": "https://github.com/AliasgerSW/sirbhanurepository#readme"
+}
